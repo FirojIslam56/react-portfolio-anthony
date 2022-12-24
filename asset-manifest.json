@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-anthony/static/css/main.74388e3c.css",
+    "main.js": "/react-portfolio-anthony/static/js/main.dcc0af0e.js",
+    "static/js/787.87f1d352.chunk.js": "/react-portfolio-anthony/static/js/787.87f1d352.chunk.js",
+    "static/media/intro-boy.png": "/react-portfolio-anthony/static/media/intro-boy.0376fd93858052d12f00.png",
+    "static/media/services-3.png": "/react-portfolio-anthony/static/media/services-3.5fd19adc7a41267fe0c1.png",
+    "static/media/services-2.png": "/react-portfolio-anthony/static/media/services-2.3952170df341bc88f5d8.png",
+    "static/media/social-instagram.png": "/react-portfolio-anthony/static/media/social-instagram.2e3b4d782b13bc7ad3b5.png",
+    "static/media/single-bg-color-42.jpg": "/react-portfolio-anthony/static/media/single-bg-color-42.825ef8579e2b42fe16d4.jpg",
+    "static/media/testi-1.jpg": "/react-portfolio-anthony/static/media/testi-1.81351a8950a45d95c221.jpg",
+    "static/media/services-1.png": "/react-portfolio-anthony/static/media/services-1.cc70ba1f478a2a272bcc.png",
+    "static/media/single-bg-color-39.jpg": "/react-portfolio-anthony/static/media/single-bg-color-39.970912e1039b84d58654.jpg",
+    "static/media/testi-3.jpg": "/react-portfolio-anthony/static/media/testi-3.c8091f373d5fb81170f5.jpg",
+    "static/media/logo.png": "/react-portfolio-anthony/static/media/logo.3314ac07413bba96ab11.png",
+    "static/media/single-bg-color-40.jpg": "/react-portfolio-anthony/static/media/single-bg-color-40.b08fb49241d271c5c29e.jpg",
+    "static/media/intro-glassesimoji.png": "/react-portfolio-anthony/static/media/intro-glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/single-bg-color-41.jpg": "/react-portfolio-anthony/static/media/single-bg-color-41.d13781d78431cb525f6c.jpg",
+    "static/media/social-facebook.png": "/react-portfolio-anthony/static/media/social-facebook.6b82f817228c59e565bf.png",
+    "static/media/single-bg-color-43.jpg": "/react-portfolio-anthony/static/media/single-bg-color-43.c06bdcd48dd6cf2102cc.jpg",
+    "static/media/social-linkedin.png": "/react-portfolio-anthony/static/media/social-linkedin.668fe687f5d2082add1c.png",
+    "static/media/social-github.png": "/react-portfolio-anthony/static/media/social-github.d94723b1f36d78d63b2a.png",
+    "static/media/testi-2.jpg": "/react-portfolio-anthony/static/media/testi-2.af8f9029b2503d6678a5.jpg",
+    "static/media/intro-thumbup.png": "/react-portfolio-anthony/static/media/intro-thumbup.e06790ba656f0397cbe5.png",
+    "static/media/intro-crown.png": "/react-portfolio-anthony/static/media/intro-crown.dbe416beae9b49b842ab.png",
+    "static/media/intro-vector-1.png": "/react-portfolio-anthony/static/media/intro-vector-1.28db5bfd58081dd1df1b.png",
+    "index.html": "/react-portfolio-anthony/index.html",
+    "main.74388e3c.css.map": "/react-portfolio-anthony/static/css/main.74388e3c.css.map",
+    "main.dcc0af0e.js.map": "/react-portfolio-anthony/static/js/main.dcc0af0e.js.map",
+    "787.87f1d352.chunk.js.map": "/react-portfolio-anthony/static/js/787.87f1d352.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74388e3c.css",
+    "static/js/main.dcc0af0e.js"
+  ]
+}
